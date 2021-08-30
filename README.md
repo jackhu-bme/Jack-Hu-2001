@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jack-Hu-2001
-- ✨ I am a college student studying in Shanghai Jiao Tong University in China.
+- 👋 Hi, I’m @Jack-Hu-2001. My English name is JackHu and I was born in 2001.
+- ✨ I am a college student studying in Shanghai Jiao Tong University in China.My minor degree is compute science.
 - 🌱 My study interest includes medical image analysis, object detection and semi-supervised learning.
 - 👀 I’m interested in artificial intelligence and its application in medical image analysis.
 - 🌱 I’m currently learning deep learning and object detection.
