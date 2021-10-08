@@ -4,7 +4,7 @@
 - 👀 I’m interested in artificial intelligence and its application in medical image analysis.
 - 🌱 I’m currently learning deep learning method and object detection.
 - 💞️ I’m looking forward to collaborate on computer vision studies and find a research group for persuing my master degree from 2023.
-- 📫 How to reach me. Email me at 2368907635@sjtu.edu.cn. 
+- 📫 How to reach me. Email me at 2368907635@sjtu.edu.cn or 2368907635hyq@gmail.com. 
 
 <!---
 Jack-Hu-2001/Jack-Hu-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
