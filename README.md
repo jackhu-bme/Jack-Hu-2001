@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jack-Hu-2001. My English name is JackHu and I was born in 2001.
-- ✨ I am a college student studying in Shanghai Jiao Tong University in China.My minor degree is Computer Science.
-- 🌱 My study interests include medical image analysis, object detection and semi-supervised learning.
+- ✨ I am a college student studying in Shanghai Jiao Tong University in China.My major degree is biomedical engineering and my minor degree is Computer Science. I'm currently a member of MICS lab. You can view our lab's homepage at https://mic.sjtu.edu.cn .
+- 🌱 My study interests include medical image analysis, image editing, multi-modal data analysis and domain generalization.
 - 👀 I’m interested in artificial intelligence and its application in medical image analysis.
-- 🌱 I’m currently learning deep learning method and object detection.
-- 💞️ I’m looking forward to collaborate on computer vision studies and find a research group for persuing my master degree from 2023.
-- 📫 How to reach me. Email me at 2368907635@sjtu.edu.cn or 2368907635hyq@gmail.com.
+- 🌱 I’m currently learning deep learning method and trying to deploy algorithm in hospital's daily use.
+- 💞️ I’m looking forward to collaborate on computer vision studies and algorithm competitions.
+- 📫 How to reach me. Email me at 2368907635@sjtu.edu.cn or 2368907635hyq@gmail.com or 2368907635@qq.com.
 
 
 <!---
