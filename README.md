@@ -4,7 +4,7 @@
 - 👀 I’m interested in artificial intelligence and its application in medical image analysis.
 - 🌱 I’m currently learning deep learning method and trying to deploy algorithm in hospital's daily use.
 - 💞️ I’m looking forward to collaborate on computer vision studies and algorithm competitions.
-- 📫 How to reach me. Email me at 2368907635@sjtu.edu.cn or 2368907635hyq@gmail.com or 2368907635@qq.com.
+- 📫 How to reach me. Email me at 2368907635@qq.com.
 
 
 <!---
